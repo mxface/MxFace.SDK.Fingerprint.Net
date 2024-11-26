@@ -180,8 +180,6 @@ Ensure the device is initialized and the fingerprint captured. Enrollment saves 
 - Displays “Matched” or “Unmatched”.
 
 ### **Match**
-Ensure initialization and capture two fingerprints. Click "Match" to verify.
+- Ensure initialization and capture two fingerprints. Click "Match" to verify.
 
----
-
-This format should be both clear and comprehensive, helping users understand the functionalities and steps to use the MxFace Fingerprint Software efficiently.
+THANK YOU FOR READING TILL HERE :)
