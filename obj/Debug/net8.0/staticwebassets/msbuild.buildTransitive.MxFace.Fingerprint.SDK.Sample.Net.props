@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MxFace.Fingerprint.SDK.Sample.Net.props" />
+</Project>

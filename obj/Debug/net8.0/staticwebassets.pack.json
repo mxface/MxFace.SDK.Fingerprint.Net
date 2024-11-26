@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "F:\\Work\\Projects\\MxFace Project\\MxFace.Fingerprint.SDK.Sample.Net\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MxFace.Fingerprint.SDK.Sample.Net.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MxFace.Fingerprint.SDK.Sample.Net.bundle.scp.css"
+    },
+    {
+      "Id": "F:\\Work\\Projects\\MxFace Project\\MxFace.Fingerprint.SDK.Sample.Net\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "F:\\Work\\Projects\\MxFace Project\\MxFace.Fingerprint.SDK.Sample.Net\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "F:\\Work\\Projects\\MxFace Project\\MxFace.Fingerprint.SDK.Sample.Net\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "F:\\Work\\Projects\\MxFace Project\\MxFace.Fingerprint.SDK.Sample.Net\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MxFace.Fingerprint.SDK.Sample.Net.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MxFace.Fingerprint.SDK.Sample.Net.props",
+      "PackagePath": "build\\MxFace.Fingerprint.SDK.Sample.Net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MxFace.Fingerprint.SDK.Sample.Net.props",
+      "PackagePath": "buildMultiTargeting\\MxFace.Fingerprint.SDK.Sample.Net.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MxFace.Fingerprint.SDK.Sample.Net.props",
+      "PackagePath": "buildTransitive\\MxFace.Fingerprint.SDK.Sample.Net.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

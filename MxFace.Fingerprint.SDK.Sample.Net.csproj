@@ -1,0 +1,30 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.EntityFrameworkCore" Version="6.0.35" />
+		<PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="6.0.35">
+			<PrivateAssets>all</PrivateAssets>
+			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+		</PackageReference>
+		<PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="6.0.35" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Reference Include="MxFace.Fingerprint.SDK.Core">
+	    <HintPath>bin\Debug\net8.0\MxFace.Fingerprint.SDK.Core.dll</HintPath>
+	  </Reference>
+	  <Reference Include="MxFace.Fingerprint.SDK.Data">
+	    <HintPath>bin\Debug\net8.0\MxFace.Fingerprint.SDK.Data.dll</HintPath>
+	  </Reference>
+	  <Reference Include="MxFace.Fingerprint.SDK.Extensions">
+	    <HintPath>bin\Debug\net8.0\MxFace.Fingerprint.SDK.Extensions.dll</HintPath>
+	  </Reference>
+	</ItemGroup>
+
+</Project>
