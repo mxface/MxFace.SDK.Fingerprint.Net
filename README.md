@@ -2,7 +2,10 @@
 
 ## **Prerequisites**
 Before using the services, ensure the following:
-- Windows Services are running on both web & server.
+
+- List of Devices supported -> MELO31,MFS500,MARC10
+- Driver (MorFin_Driver_1.1.0.0) is installed and running in your system (from the Artifacts Folder)
+- Windows Services are running on both the web & server (from the Artifacts folder).
 - Your device is connected to your system.
 - The project framework is .NET 6.0 or above.
 
