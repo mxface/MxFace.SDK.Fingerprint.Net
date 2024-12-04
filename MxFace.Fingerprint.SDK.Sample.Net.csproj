@@ -17,13 +17,13 @@
 
 	<ItemGroup>
 	  <Reference Include="MxFace.Fingerprint.SDK.Core">
-	    <HintPath>bin\Debug\net8.0\MxFace.Fingerprint.SDK.Core.dll</HintPath>
+	    <HintPath>..\..\MxFace.Fingerprint.SDK.Sample.Net\bin\Debug\net8.0\MxFace.Fingerprint.SDK.Core.dll</HintPath>
 	  </Reference>
 	  <Reference Include="MxFace.Fingerprint.SDK.Data">
-	    <HintPath>bin\Debug\net8.0\MxFace.Fingerprint.SDK.Data.dll</HintPath>
+	    <HintPath>..\..\MxFace.Fingerprint.SDK.Sample.Net\bin\Debug\net8.0\MxFace.Fingerprint.SDK.Data.dll</HintPath>
 	  </Reference>
 	  <Reference Include="MxFace.Fingerprint.SDK.Extensions">
-	    <HintPath>bin\Debug\net8.0\MxFace.Fingerprint.SDK.Extensions.dll</HintPath>
+	    <HintPath>..\..\MxFace.Fingerprint.SDK.Sample.Net\bin\Debug\net8.0\MxFace.Fingerprint.SDK.Extensions.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 
