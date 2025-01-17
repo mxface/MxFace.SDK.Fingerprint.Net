@@ -16,14 +16,18 @@
 	</ItemGroup>
 
 	<ItemGroup>
+	  <Folder Include="Artifacts\DLLs\" />
+	</ItemGroup>
+
+	<ItemGroup>
 	  <Reference Include="MxFace.Fingerprint.SDK.Core">
-	    <HintPath>..\..\MxFace.Fingerprint.SDK.Sample.Net\bin\Debug\net8.0\MxFace.Fingerprint.SDK.Core.dll</HintPath>
+	    <HintPath>..\..\src\MxFace.Fingerprint.SDK.Core\bin\Debug\net6.0\win-x64\MxFace.Fingerprint.SDK.Core.dll</HintPath>
 	  </Reference>
 	  <Reference Include="MxFace.Fingerprint.SDK.Data">
-	    <HintPath>..\..\MxFace.Fingerprint.SDK.Sample.Net\bin\Debug\net8.0\MxFace.Fingerprint.SDK.Data.dll</HintPath>
+	    <HintPath>..\..\src\MxFace.Fingerprint.SDK.Data\bin\Debug\net6.0\win-x64\MxFace.Fingerprint.SDK.Data.dll</HintPath>
 	  </Reference>
 	  <Reference Include="MxFace.Fingerprint.SDK.Extensions">
-	    <HintPath>..\..\MxFace.Fingerprint.SDK.Sample.Net\bin\Debug\net8.0\MxFace.Fingerprint.SDK.Extensions.dll</HintPath>
+	    <HintPath>..\..\src\MxFace.Fingerprint.SDK.Extensions\bin\Debug\net6.0\win-x64\MxFace.Fingerprint.SDK.Extensions.dll</HintPath>
 	  </Reference>
 	</ItemGroup>
 
